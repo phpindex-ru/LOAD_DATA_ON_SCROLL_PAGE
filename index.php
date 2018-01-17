@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta charset="utf-8">
-<title>Load Data on Page Scroll using jQuery Ajax PHP from MySQL Database by CodexWorld</title>
+<title></title>
 <style type="text/css">
 body {
 font: normal 15px arial,sans-serif;
@@ -81,7 +81,7 @@ include('dbConfig.php');
 <div class="container">
     <div class="row">
         <div class="col-lg-12">
-        	<h1>Load Data on Page Scroll using jQuery Ajax PHP from MySQL Database by CodexWorld</h1>
+        	<h1></h1>
             <div class="post-list" id="postList">
 			<?php
 			//get rows query
